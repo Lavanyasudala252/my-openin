@@ -15,13 +15,13 @@ https://openin-dashboard.netlify.app
 Clone the project
 
 ```bash
-  git clone https://github.com/Bala-Subrahmanyam-Reddy/openin-dashboard
+  https://github.com/Lavanyasudala252/my-openin.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd openin-dashboard
+  cd my-openin
 ```
 
 Configure env variables
