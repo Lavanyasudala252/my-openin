@@ -1,7 +1,6 @@
 import React from "react";
 import "./RightMenu.css";
 import { AiOutlineBell } from "react-icons/ai";
-import userImage from "../../assets/user.jpg";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { useMenuHandle } from "../../context/menuHandle";
 import Cookies from "js-cookie";
@@ -61,7 +60,7 @@ const RightMenu = () => {
           </div>
           <div className="dropdown inline-block relative">
             <img
-              src={userImage}
+              src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2PoNKsGYNWk_liBZP3Z2W8dLIrNKSjtLzwCcwARyT6TNyqgbq"
               className="w-5 lg:w-6 rounded-full bg-filedDarker"
               alt="user"
             />
