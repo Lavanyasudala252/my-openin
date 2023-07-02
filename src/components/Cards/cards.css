@@ -1,0 +1,16 @@
+.cards-container {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: space-between;
+  overflow-x: auto;
+}
+
+.each-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border-radius: 1rem;
+  min-width: 13.81581rem;
+}

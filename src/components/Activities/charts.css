@@ -1,0 +1,12 @@
+.chart-text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.chat-right-side {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}

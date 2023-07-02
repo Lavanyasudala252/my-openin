@@ -1,0 +1,29 @@
+.bottom-data-container {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  gap: 2rem;
+}
+
+.each-item {
+  padding-bottom: 1rem;
+}
+
+.pie-chart-container {
+  width: 150px;
+  height: 150px;
+}
+
+@media screen and (max-width: 656px) {
+  .pie-chart-right {
+    display: none;
+  }
+}
+@media screen and (max-width: 540px) {
+  .bottom-data-container {
+    grid-template-columns: auto;
+    gap: 1rem;
+  }
+  .pie-chart-right {
+    display: block;
+  }
+}

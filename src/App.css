@@ -1,0 +1,13 @@
+:root {
+  --primary-background: "#F5F5F5";
+  --field-background: "#EAEAEA";
+  --black-background: "#000000";
+  --link-color: "#346BD4";
+  --secondary-text: "#858585";
+  --white-color: "#FFFFFF";
+}
+
+/* .background-container {
+    display: flex;
+    background-color: '#F5F5F5';
+} */
